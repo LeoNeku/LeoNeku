@@ -9,8 +9,6 @@
 <h2>📜 Certifications:</h2>
  
   - [Network+](Link)
-  - [Example](Link)
-  - [Example](Link)
   - [Qualys Cybersecurity Asset Management](Link)
   - [Qualys Vulnerability Management Detection & Response](Link)
   - [Qualys Scanning Strategies and Best Practices](Link)
