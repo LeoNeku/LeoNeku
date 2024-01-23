@@ -9,6 +9,7 @@
 <h2>📜 Certifications:</h2>
  
   - [Network+](Link)
+  - [Google Cybersecurity Certificate](https://www.credly.com/badges/06ff86e8-566c-4f32-9c64-d0afe955198e/print)
   - [Qualys Cybersecurity Asset Management](Link)
   - [Qualys Vulnerability Management Detection & Response](Link)
   - [Qualys Scanning Strategies and Best Practices](Link)
