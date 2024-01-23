@@ -10,13 +10,13 @@
  
   - [Network+](Link)
   - [Google Cybersecurity Certificate](https://www.credly.com/badges/06ff86e8-566c-4f32-9c64-d0afe955198e/print)
-  - [Qualys Cybersecurity Asset Management](Link)
-  - [Qualys Vulnerability Management Detection & Response](Link)
-  - [Qualys Scanning Strategies and Best Practices](Link)
-  - [Qualys Reporting Strategies and Best Practices](Link)
-  - [Qualys Patch Management](Link)
-  - [Qualys Web Application Scanning](Link)
-  - [Qualys Patch Management Scanning](Link)
+  - [Qualys - Cybersecurity Asset Management](Link)
+  - [Qualys - Vulnerability Management Detection & Response](Link)
+  - [Qualys - Scanning Strategies and Best Practices](Link)
+  - [Qualys - Reporting Strategies and Best Practices](Link)
+  - [Qualys - Patch Management](Link)
+  - [Qualys - Web Application Scanning](Link)
+  - [Qualys - Patch Management Scanning](Link)
 
 <h2> 🤳 Connect with me:</h2>
  
