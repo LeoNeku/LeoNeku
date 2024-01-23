@@ -1,5 +1,4 @@
 <h1>Hi, I'm Leoneil Aldana! <a href="https://www.linkedin.com/in/leoneilaldana/"> </a>
-
  
 <h2>🛡️ Information Security Projects</h2>
  
