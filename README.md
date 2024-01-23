@@ -12,6 +12,12 @@
   - [Example](Link)
   - [Example](Link)
   - [Qualys Cybersecurity Asset Management](Link)
+  - [Qualys Vulnerability Management Detection & Response](Link)
+  - [Qualys Scanning Strategies and Best Practices](Link)
+  - [Qualys Reporting Strategies and Best Practices](Link)
+  - [Qualys Patch Management](Link)
+  - [Qualys Web Application Scanning](Link)
+  - [Qualys Patch Management Scanning](Link)
 
 <h2> 🤳 Connect with me:</h2>
  
