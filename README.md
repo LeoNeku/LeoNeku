@@ -7,7 +7,6 @@
 
 <h2>📜 Certifications:</h2>
  
-  - [Network+](Link)
   - [Google Cybersecurity Certificate](https://www.credly.com/badges/06ff86e8-566c-4f32-9c64-d0afe955198e/print)
   - [Qualys - Cybersecurity Asset Management](Link)
   - [Qualys - Vulnerability Management Detection & Response](Link)
@@ -19,7 +18,6 @@
 
 <h2> 🤳 Connect with me:</h2>
  
-[<img align="left" alt="yourname | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />]
 [<img align="left" alt="yourname | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]
  
 [linkedin]: https://www.linkedin.com/in/leoneilaldana/
