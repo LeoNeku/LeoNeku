@@ -9,7 +9,7 @@
  
   - [Google Cybersecurity Certificate](https://www.credly.com/badges/06ff86e8-566c-4f32-9c64-d0afe955198e/print)
   - [Qualys - Cybersecurity Asset Management](Link)
-  - [Qualys - Vulnerability Management Detection & Response](Link)
+  - [Qualys - Vulnerability Management Detection & Response](https://www.linkedin.com/in/leoneilaldana/details/certifications/1707155617207/single-media-viewer/?profileId=ACoAACuw24YBBKgzreaEocp9LOqcpRFSsx_VByg)
   - [Qualys - Scanning Strategies and Best Practices](Link)
   - [Qualys - Reporting Strategies and Best Practices](Link)
   - [Qualys - Patch Management](Link)
