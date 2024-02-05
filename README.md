@@ -16,7 +16,7 @@
   - [Google Cybersecurity Certificate](https://www.credly.com/badges/06ff86e8-566c-4f32-9c64-d0afe955198e/print)
 
 <h2> 🤳 Connect with me:
-[<img align="left" alt="Leoneil Aldana | LinkedIn" width="22px" src="[https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg]" />]
+[<img align="left" alt="" | LinkedIn" width="22px" src="[https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg]" />]
 [LinkedIn](https://www.linkedin.com/in/leoneilaldana)
 </h2>
  
