@@ -12,7 +12,7 @@
   - [Qualys - Reporting Strategies and Best Practices](https://www.linkedin.com/in/leoneilaldana/details/certifications/1707156061263/single-media-viewer/?profileId=ACoAACuw24YBBKgzreaEocp9LOqcpRFSsx_VByg)
   - [Qualys - Patch Management](https://www.linkedin.com/in/leoneilaldana/details/certifications/1707156238429/single-media-viewer/?profileId=ACoAACuw24YBBKgzreaEocp9LOqcpRFSsx_VByg)
   - [Qualys - Web Application Scanning](https://www.linkedin.com/in/leoneilaldana/details/certifications/1707157545382/single-media-viewer/?profileId=ACoAACuw24YBBKgzreaEocp9LOqcpRFSsx_VByg)
-  - [Qualys - Patch Management Scanning](https://www.linkedin.com/in/leoneilaldana/details/certifications/1707156622280/single-media-viewer/?profileId=ACoAACuw24YBBKgzreaEocp9LOqcpRFSsx_VByg)
+  - [Qualys - Patch Management Scanning](https://www.linkedin.com/in/leoneilaldana/details/certifications/1707156238429/single-media-viewer/?profileId=ACoAACuw24YBBKgzreaEocp9LOqcpRFSsx_VByg)
   - [Qualys - Policy Compliance](https://www.linkedin.com/in/leoneilaldana/overlay/1707156788767/single-media-viewer/?profileId=ACoAACuw24YBBKgzreaEocp9LOqcpRFSsx_VByg)
   - [Qualys - PCI Compliance](https://www.linkedin.com/in/leoneilaldana/details/certifications/1707156622280/single-media-viewer/?profileId=ACoAACuw24YBBKgzreaEocp9LOqcpRFSsx_VByg)
   - [Google Cybersecurity Certificate](https://www.credly.com/badges/06ff86e8-566c-4f32-9c64-d0afe955198e/print)
