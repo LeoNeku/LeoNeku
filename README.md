@@ -18,9 +18,19 @@
   - [Google Cybersecurity Certificate](https://www.credly.com/badges/06ff86e8-566c-4f32-9c64-d0afe955198e/print)
 
 <h2> 🤳 Connect with me:
-[<img align="left" alt="" | LinkedIn" width="22px" src="[https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg]" />]
-[LinkedIn](https://www.linkedin.com/in/leoneilaldana)
-[LinkedIn](https://twitter.com/zNeku_)
+
+  <a href="https://www.linkedin.com/in/leoneilaldana/" target="_blank" rel="noopener noreferrer">
+    <img src="https://github.com/LeoneilAldana/LeoNeku/main/linkedin-logo.png" alt="LinkedIn Logo" width="32" height="32">
+  </a>
+  <a href="https://twitter.com/zNeku" target="_blank" rel="noopener noreferrer">
+    <img src="https://github.com/your-username/LeoneilAldana/LeoNeku/main/twitter-logo.png" alt="Twitter Logo" width="32" height="32">
+  </a>
+
+
+  [<img align="left" alt="" | LinkedIn" width="22px" src="[https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg]" />]
+  [LinkedIn](https://www.linkedin.com/in/leoneilaldana)
+  [LinkedIn](https://twitter.com/zNeku_)
+
 </h2>
  
 
