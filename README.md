@@ -27,8 +27,7 @@
   </a>
 
 
-  [<img align="left" alt="" | LinkedIn" width="22px" src="[https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg]" />]
-  [LinkedIn](https://www.linkedin.com/in/leoneilaldana)
+  [![LinkedIn](https://www.google.com/url?sa=i&url=https%3A%2F%2Fapps.microsoft.com%2Fdetail%2F9WZDNCRFJ4Q7%3Fhl%3Den-US%26gl%3DUS&psig=AOvVaw3LVprC0ikOfKTLRYwNcEtU&ust=1707372475924000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjqjYnImIQDFQAAAAAdAAAAABAE)](https://www.linkedin.com/in/leoneilaldana)
   [LinkedIn](https://twitter.com/zNeku_)
 
 </h2>
