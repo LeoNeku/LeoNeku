@@ -18,18 +18,27 @@
   - [Google Cybersecurity Certificate](https://www.credly.com/badges/06ff86e8-566c-4f32-9c64-d0afe955198e/print)
 
 <h2> 🤳 Connect with me:
-
-  <a href="https://www.linkedin.com/in/leoneilaldana/" target="_blank" rel="noopener noreferrer">
+<!---
+   <a href="https://www.linkedin.com/in/leoneilaldana/" target="_blank" rel="noopener noreferrer">
     <img src="https://github.com/LeoneilAldana/LeoNeku/main/linkedin-logo.png" alt="LinkedIn Logo" width="32" height="32">
-  </a>
-  <a href="https://twitter.com/zNeku" target="_blank" rel="noopener noreferrer">
-    <img src="https://github.com/your-username/LeoneilAldana/LeoNeku/main/twitter-logo.png" alt="Twitter Logo" width="32" height="32">
-  </a>
+   </a>
+   <a href="https://twitter.com/zNeku" target="_blank" rel="noopener noreferrer">
+   <img src="https://github.com/your-username/LeoneilAldana/LeoNeku/main/twitter-logo.png" alt="Twitter Logo" width="32" height="32">
+   </a>
+-->
 
+<div id="badges">
+  <a href="https://www.linkedin.com/in/leoneilaldana/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://twitter.com/zNeku_">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 
-  [![LinkedIn](https://www.google.com/url?sa=i&url=https%3A%2F%2Fapps.microsoft.com%2Fdetail%2F9WZDNCRFJ4Q7%3Fhl%3Den-US%26gl%3DUS&psig=AOvVaw3LVprC0ikOfKTLRYwNcEtU&ust=1707372475924000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjqjYnImIQDFQAAAAAdAAAAABAE)](https://www.linkedin.com/in/leoneilaldana)
+<!--- [![LinkedIn](https://github.com/LeoneilAldana/LeoNeku/blob/main/linkedin.png?raw=true)](https://www.linkedin.com/in/leoneilaldana)
   [LinkedIn](https://twitter.com/zNeku_)
-
+-->
 </h2>
  
 
