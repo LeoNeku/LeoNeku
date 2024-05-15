@@ -23,8 +23,8 @@
   - [Google Cybersecurity Certificate](https://www.credly.com/badges/06ff86e8-566c-4f32-9c64-d0afe955198e/print)
 
 <h2>📜 Cybersecurity Case Studies</h2>
- - [SolarWinds Case Study](https://docs.google.com/document/d/1aYmFQjFBoFvoPBqGpR6Hnvz0cSOIgLfpqEWsUHKjOXY/edit?usp=sharing&resourcekey=0-MVSuzO3W828OkQ8tx2n18w)
- - [WannaCry Case Study]
+ - [SolarWinds Case Study](https://www.credly.com/badges/06ff86e8-566c-4f32-9c64-d0afe955198e/print)
+
 
 <h2> 🤳 Connect with me:
 <!---
