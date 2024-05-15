@@ -3,6 +3,10 @@
 <h2>🛡️ Information Security Projects</h2>
  
 - [Microsoft Azure Honeynet Lab](https://docs.google.com/document/d/1vgpqfMyxUcxQnS41V0oVcaHL1uLUD_UzJLDWfmsVJ7U/edit#heading=h.z6ne0og04bp5)
+- [Microsoft Azure Honeynet Lab: Incident Response Portion]([https://docs.google.com/document/d/1-4fG4w65FIi2xSjoq6yHC_Co7nvRBYApZu0Ba7VMGLk/edit?usp=sharing](https://docs.google.com/document/d/1-4fG4w65FIi2xSjoq6yHC_Co7nvRBYApZu0Ba7VMGLk/edit?usp=sharing))
+- [Linux/Unix Playbook](https://docs.google.com/document/d/1kf-g9mJnz4AY85jIjJTSJU8-kwhQoyL5ku0RDUOJCbQ/edit#heading=h.gjdgxs)
+- [Windows Playbook](https://docs.google.com/document/d/1gAlTGFAa3DsQlRFJLKd3h5Eg8EZNjZs7AYsjYOiZlng/edit#heading=h.gjdgxs)
+- [Inventory Template](https://docs.google.com/document/d/1ZDJi0sAYKhqSy_eVRWupA9p4wof59W9B/edit#heading=h.gjdgxs)
 
 <h2>📜 Certifications:</h2>
  
