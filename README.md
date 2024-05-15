@@ -10,7 +10,7 @@
 
 <h2>📜 Certifications:</h2>
 
- [Qualys Certifications]
+ Qualys Certifications
   - [Qualys - Vulnerability Management Detection & Response](https://www.linkedin.com/in/leoneilaldana/details/certifications/1707155617207/single-media-viewer/?profileId=ACoAACuw24YBBKgzreaEocp9LOqcpRFSsx_VByg)
   - [Qualys - Cybersecurity Asset Management](https://www.linkedin.com/in/leoneilaldana/details/certifications/1707156357469/single-media-viewer/?profileId=ACoAACuw24YBBKgzreaEocp9LOqcpRFSsx_VByg)
   - [Qualys - Scanning Strategies and Best Practices](https://www.linkedin.com/in/leoneilaldana/details/certifications/1707155873027/single-media-viewer/?profileId=ACoAACuw24YBBKgzreaEocp9LOqcpRFSsx_VByg)
