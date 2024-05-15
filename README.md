@@ -6,10 +6,11 @@
 - [Microsoft Azure Honeynet Lab: Incident Response Portion]([https://docs.google.com/document/d/1-4fG4w65FIi2xSjoq6yHC_Co7nvRBYApZu0Ba7VMGLk/edit?usp=sharing](https://docs.google.com/document/d/1-4fG4w65FIi2xSjoq6yHC_Co7nvRBYApZu0Ba7VMGLk/edit?usp=sharing))
 - [Linux/Unix Playbook](https://docs.google.com/document/d/1kf-g9mJnz4AY85jIjJTSJU8-kwhQoyL5ku0RDUOJCbQ/edit#heading=h.gjdgxs)
 - [Windows Playbook](https://docs.google.com/document/d/1gAlTGFAa3DsQlRFJLKd3h5Eg8EZNjZs7AYsjYOiZlng/edit#heading=h.gjdgxs)
-- [Inventory Template](https://docs.google.com/document/d/1ZDJi0sAYKhqSy_eVRWupA9p4wof59W9B/edit#heading=h.gjdgxs)
+- [Audit/Inventory Template](https://docs.google.com/document/d/1ZDJi0sAYKhqSy_eVRWupA9p4wof59W9B/edit#heading=h.gjdgxs)
 
 <h2>📜 Certifications:</h2>
- 
+
+ [Qualys Certifications]
   - [Qualys - Vulnerability Management Detection & Response](https://www.linkedin.com/in/leoneilaldana/details/certifications/1707155617207/single-media-viewer/?profileId=ACoAACuw24YBBKgzreaEocp9LOqcpRFSsx_VByg)
   - [Qualys - Cybersecurity Asset Management](https://www.linkedin.com/in/leoneilaldana/details/certifications/1707156357469/single-media-viewer/?profileId=ACoAACuw24YBBKgzreaEocp9LOqcpRFSsx_VByg)
   - [Qualys - Scanning Strategies and Best Practices](https://www.linkedin.com/in/leoneilaldana/details/certifications/1707155873027/single-media-viewer/?profileId=ACoAACuw24YBBKgzreaEocp9LOqcpRFSsx_VByg)
