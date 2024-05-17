@@ -6,6 +6,7 @@
 - [Microsoft Azure Honeynet Lab: Incident Response Portion](https://docs.google.com/document/d/1-4fG4w65FIi2xSjoq6yHC_Co7nvRBYApZu0Ba7VMGLk/edit?usp=sharing)
 - [Microsoft Azure Honeynet Structure Diagram](https://github.com/LeoneilAldana/LeoNeku/blob/main/Azure_Structure_Diagram.drawio.png)
 - [Microsoft Azure Honeynet Log Flow Diagram](https://github.com/LeoneilAldana/LeoNeku/blob/main/Azure_LAW.drawio.png)
+
   
  Cybersecurity Playbooks And Documentation 
 - [Linux/Unix Playbook](https://docs.google.com/document/d/1kf-g9mJnz4AY85jIjJTSJU8-kwhQoyL5ku0RDUOJCbQ/edit#heading=h.gjdgxs)
