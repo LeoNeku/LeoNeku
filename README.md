@@ -22,8 +22,11 @@
   - [Qualys - Patch Management Scanning](https://www.linkedin.com/in/leoneilaldana/details/certifications/1707156238429/single-media-viewer/?profileId=ACoAACuw24YBBKgzreaEocp9LOqcpRFSsx_VByg)
   - [Qualys - Policy Compliance](https://www.linkedin.com/in/leoneilaldana/overlay/1707156788767/single-media-viewer/?profileId=ACoAACuw24YBBKgzreaEocp9LOqcpRFSsx_VByg)
   - [Qualys - PCI Compliance](https://www.linkedin.com/in/leoneilaldana/details/certifications/1707156622280/single-media-viewer/?profileId=ACoAACuw24YBBKgzreaEocp9LOqcpRFSsx_VByg)
-  - [Google Cybersecurity Certificate](https://www.credly.com/badges/06ff86e8-566c-4f32-9c64-d0afe955198e/print)
+  
 
+<h2>📜 Certificates</h2>
+  - [Google Cybersecurity Certificate](https://www.credly.com/badges/06ff86e8-566c-4f32-9c64-d0afe955198e/print)
+  
 <h2>📜 Cybersecurity Case Studies</h2>
  - [SolarWinds Case Study](https://docs.google.com/document/d/1aYmFQjFBoFvoPBqGpR6Hnvz0cSOIgLfpqEWsUHKjOXY/edit?usp=sharing&resourcekey=0-MVSuzO3W828OkQ8tx2n18w)
  - [WannaCry Case Study](https://docs.google.com/document/d/11W1a_53Dxmessku6KtSlHYZ558rvLNPCOlRORe-LBe8/edit?usp=sharing&resourcekey=0-3Q5J7EQXrlsp_jFJU2xTgg)
