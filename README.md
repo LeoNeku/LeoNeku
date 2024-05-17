@@ -50,8 +50,6 @@
   </a>
 </div>
 
-[![Twitter](https://gist.github.com/cxmeel/0dbc95191f239b631c3874f4ccf114e2/raw/x-logo.svg)](https://twitter.com/zNeku_)
-
 <!--- [![LinkedIn](https://github.com/LeoneilAldana/LeoNeku/blob/main/linkedin.png?raw=true)](https://www.linkedin.com/in/leoneilaldana)
   [LinkedIn](https://twitter.com/zNeku_)
 -->
