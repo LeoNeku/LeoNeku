@@ -25,8 +25,7 @@
   
 
 <h2>📜 Certificates</h2>
-  - [Qualys - PCI Compliance](https://www.linkedin.com/in/leoneilaldana/details/certifications/1707156622280/single-media-viewer/?profileId=ACoAACuw24YBBKgzreaEocp9LOqcpRFSsx_VByg)
-  [Google Cybersecurity Certificate](https://www.credly.com/badges/06ff86e8-566c-4f32-9c64-d0afe955198e/print)
+  - [Google Cybersecurity Certificate](https://www.credly.com/badges/06ff86e8-566c-4f32-9c64-d0afe955198e/print)
   
 <h2>📜 Cybersecurity Case Studies</h2>
  - [SolarWinds Case Study](https://docs.google.com/document/d/1aYmFQjFBoFvoPBqGpR6Hnvz0cSOIgLfpqEWsUHKjOXY/edit?usp=sharing&resourcekey=0-MVSuzO3W828OkQ8tx2n18w)
