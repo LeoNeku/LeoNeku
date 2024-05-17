@@ -3,7 +3,7 @@
 <h2>🛡️ Information Security Projects</h2>
  
 - [Microsoft Azure Honeynet Lab](https://docs.google.com/document/d/1vgpqfMyxUcxQnS41V0oVcaHL1uLUD_UzJLDWfmsVJ7U/edit#heading=h.z6ne0og04bp5)
-- [Microsoft Azure Honeynet Lab: Incident Response Portion](https://docs.google.com/document/d/1-4fG4w65FIi2xSjoq6yHC_Co7nvRBYApZu0Ba7VMGLk/edit?usp=sharing)
+- [Microsoft Azure Honeynet Lab (Part 2): Incident Response Portion](https://docs.google.com/document/d/1-4fG4w65FIi2xSjoq6yHC_Co7nvRBYApZu0Ba7VMGLk/edit?usp=sharing)
 - [Microsoft Azure Honeynet Structure Diagram](https://github.com/LeoneilAldana/LeoNeku/blob/main/Azure_Structure_Diagram.drawio.png)
 - [Microsoft Azure Honeynet Log Flow Diagram](https://github.com/LeoneilAldana/LeoNeku/blob/main/Azure_LAW.drawio.png)
  
