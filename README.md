@@ -1,4 +1,4 @@
-# Hi, I'm [Leoneil Aldana!](https://www.linkedin.com/in/leoneilaldana)
+# Hi, I'm Leoneil Aldana!
  
 ## 🛡️ Information Security Projects
  
